@@ -1,0 +1,19 @@
+html, body {
+  overflow-x: hidden;
+}
+
+body {
+  position: relative;
+}
+h1 {
+  font-family: "Orbitron";
+  font-size: 40;
+  font-style: "Bold 900"
+  color: white;
+}
+h2 {
+  font-family: "Orbitron";
+  font-size: 20;
+  font-style: "Bold 900"
+  color: white;
+}
